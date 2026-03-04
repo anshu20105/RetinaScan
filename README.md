@@ -47,16 +47,7 @@ Interface:      Jupyter Notebook
 
 
 📉 PERFORMANCE METRICS
-----------------------
-┌─────────────────┬────────────────────────┐
-│ Metric          │ Status                 │
-├─────────────────┼────────────────────────┤
-│ Accuracy        │ High                   │
-│ Precision       │ Balanced               │
-│ Recall          │ Optimized (low FN)     │
-│ Validation      │ Confusion Matrix + Report │
-└─────────────────┴────────────────────────┘
-
+----------------------------
 The Random Forest classifier demonstrated strong effectiveness in binary 
 classification tasks, providing a reliable baseline for DR screening.
 
@@ -109,9 +100,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-────────────────────────────────────────────────────────────────────────────
-Built for healthier communities ❤️
-[Report Bug] • [Request Feature] • [Contact Author]
-────────────────────────────────────────────────────────────────────────────
