@@ -10,7 +10,7 @@ Diabetic Retinopathy using fundus photography and ensemble learning.
 Get the model running locally in minutes.
 
 # 1. Clone the repo
-git clone https://github.com/yourusername/retina-ai.git
+git clone https://github.com/anshu20105/RetinaScan.git
 
 # 2. Install dependencies
 pip install -r requirements.txt
